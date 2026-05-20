@@ -1,4 +1,6 @@
-# Zero-Knowledge Proof Demo
+# ZPF
+
+Zero-Knowledge Proof Demo
 
 This project implements a simple zero-knowledge identification protocol using two independent Python processes:
 
